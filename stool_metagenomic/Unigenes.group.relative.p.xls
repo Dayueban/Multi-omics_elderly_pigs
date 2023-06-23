@@ -1,0 +1,153 @@
+phylum	Ad	Ma	Oa
+k__Bacteria;p__Firmicutes	0.551029	0.620799	0.630556	k__Bacteria;p__Firmicutes
+k__Bacteria;p__Bacteroidetes	0.172612	0.076101	0.108213	k__Bacteria;p__Bacteroidetes
+k__Bacteria;p__Actinobacteria	0.016470	0.060414	0.019646	k__Bacteria;p__Actinobacteria
+k__Bacteria;p__Proteobacteria	0.038387	0.030519	0.020507	k__Bacteria;p__Proteobacteria
+k__Archaea;p__Euryarchaeota	0.019787	0.015752	0.017732	k__Archaea;p__Euryarchaeota
+k__Bacteria;p__Spirochaetes	0.013112	0.013122	0.012254	k__Bacteria;p__Spirochaetes
+k__Bacteria;p__Fusobacteria	0.004027	0.000476	0.000894	k__Bacteria;p__Fusobacteria
+k__Bacteria;p__Verrucomicrobia	0.000628	0.002622	0.002847	k__Bacteria;p__Verrucomicrobia
+k__Bacteria;p__Fibrobacteres	0.002020	0.001583	0.002856	k__Bacteria;p__Fibrobacteres
+k__Bacteria;p__Synergistetes	0.000813	0.000794	0.000837	k__Bacteria;p__Synergistetes
+k__Bacteria;p__Chlamydiae	0.001043	0.000505	0.000677	k__Bacteria;p__Chlamydiae
+k__Bacteria;p__Lentisphaerae	0.000260	0.000429	0.000799	k__Bacteria;p__Lentisphaerae
+k__Bacteria;p__Tenericutes	0.001129	0.001192	0.000769	k__Bacteria;p__Tenericutes
+k__Bacteria;p__Planctomycetes	0.000486	0.000512	0.000731	k__Bacteria;p__Planctomycetes
+k__Eukaryota;p__Ascomycota	0.000264	0.000046	0.000096	k__Eukaryota;p__Ascomycota
+k__Bacteria;p__Candidatus Saccharibacteria	0.000249	0.000180	0.000189	k__Bacteria;p__Candidatus Saccharibacteria
+k__Bacteria;p__Candidatus Melainabacteria	0.000208	0.000243	0.000331	k__Bacteria;p__Candidatus Melainabacteria
+k__Bacteria;p__Chloroflexi	0.000488	0.000469	0.000506	k__Bacteria;p__Chloroflexi
+k__Bacteria;p__Kiritimatiellaeota	0.000019	0.000035	0.000073	k__Bacteria;p__Kiritimatiellaeota
+k__Bacteria;p__Deferribacteres	0.000045	0.000056	0.000021	k__Bacteria;p__Deferribacteres
+k__Bacteria;p__Armatimonadetes	0.000046	0.000054	0.000074	k__Bacteria;p__Armatimonadetes
+k__Bacteria;p__Cyanobacteria	0.000135	0.000138	0.000141	k__Bacteria;p__Cyanobacteria
+k__Bacteria;p__Acidobacteria	0.000046	0.000056	0.000070	k__Bacteria;p__Acidobacteria
+k__Bacteria;p__Ignavibacteriae	0.000047	0.000043	0.000047	k__Bacteria;p__Ignavibacteriae
+k__Bacteria;p__Thermotogae	0.000073	0.000061	0.000063	k__Bacteria;p__Thermotogae
+k__Eukaryota;p__Chytridiomycota	0.000068	0.000050	0.000061	k__Eukaryota;p__Chytridiomycota
+k__Bacteria;p__Chlorobi	0.000016	0.000025	0.000031	k__Bacteria;p__Chlorobi
+k__Bacteria;p__Elusimicrobia	0.000040	0.000044	0.000056	k__Bacteria;p__Elusimicrobia
+k__Bacteria;p__Nitrospirae	0.000038	0.000039	0.000049	k__Bacteria;p__Nitrospirae
+k__Bacteria;p__Candidatus Margulisbacteria	0.000023	0.000023	0.000025	k__Bacteria;p__Candidatus Margulisbacteria
+k__Bacteria;p__Deinococcus-Thermus	0.000032	0.000019	0.000023	k__Bacteria;p__Deinococcus-Thermus
+k__Bacteria;p__Candidatus Falkowbacteria	0.000002	0.000006	0.000015	k__Bacteria;p__Candidatus Falkowbacteria
+k__Eukaryota;p__Basidiomycota	0.000016	0.000006	0.000009	k__Eukaryota;p__Basidiomycota
+k__Bacteria;p__Aquificae	0.000030	0.000028	0.000030	k__Bacteria;p__Aquificae
+k__Bacteria;p__Candidatus Latescibacteria	0.000019	0.000009	0.000008	k__Bacteria;p__Candidatus Latescibacteria
+k__Bacteria;p__Candidatus Buchananbacteria	0.000006	0.000002	0.000002	k__Bacteria;p__Candidatus Buchananbacteria
+k__Bacteria;p__Candidatus Omnitrophica	0.000016	0.000020	0.000025	k__Bacteria;p__Candidatus Omnitrophica
+k__Bacteria;p__Candidatus Aminicenantes	0.000011	0.000012	0.000017	k__Bacteria;p__Candidatus Aminicenantes
+k__Bacteria;p__Candidatus Atribacteria	0.000015	0.000014	0.000015	k__Bacteria;p__Candidatus Atribacteria
+k__Bacteria;p__Candidatus Roizmanbacteria	0.000004	0.000004	0.000004	k__Bacteria;p__Candidatus Roizmanbacteria
+k__Bacteria;p__Candidatus Hydrogenedentes	0.000001	0.000004	0.000007	k__Bacteria;p__Candidatus Hydrogenedentes
+k__Eukaryota;p__Mucoromycota	0.000007	0.000010	0.000007	k__Eukaryota;p__Mucoromycota
+k__Bacteria;p__Candidatus Moranbacteria	0.000008	0.000016	0.000011	k__Bacteria;p__Candidatus Moranbacteria
+k__Bacteria;p__Candidatus Rokubacteria	0.000007	0.000008	0.000009	k__Bacteria;p__Candidatus Rokubacteria
+k__Bacteria;p__Candidatus Woesebacteria	0.000004	0.000005	0.000005	k__Bacteria;p__Candidatus Woesebacteria
+k__Bacteria;p__Candidatus Marinimicrobia	0.000011	0.000011	0.000011	k__Bacteria;p__Candidatus Marinimicrobia
+k__Bacteria;p__Candidatus Kaiserbacteria	0.000003	0.000008	0.000003	k__Bacteria;p__Candidatus Kaiserbacteria
+k__Bacteria;p__Candidatus Desantisbacteria	0.000009	0.000009	0.000011	k__Bacteria;p__Candidatus Desantisbacteria
+k__Bacteria;p__Candidatus Kryptonia	0.000006	0.000004	0.000004	k__Bacteria;p__Candidatus Kryptonia
+k__Archaea;p__Candidatus Bathyarchaeota	0.000009	0.000010	0.000010	k__Archaea;p__Candidatus Bathyarchaeota
+k__Bacteria;p__Candidatus Uhrbacteria	0.000012	0.000013	0.000013	k__Bacteria;p__Candidatus Uhrbacteria
+k__Bacteria;p__Balneolaeota	0.000006	0.000008	0.000009	k__Bacteria;p__Balneolaeota
+k__Bacteria;p__Candidatus Magasanikbacteria	0.000006	0.000009	0.000008	k__Bacteria;p__Candidatus Magasanikbacteria
+k__Bacteria;p__Candidatus Beckwithbacteria	0.000002	0.000001	0.000002	k__Bacteria;p__Candidatus Beckwithbacteria
+k__Bacteria;p__Candidatus Nomurabacteria	0.000004	0.000006	0.000005	k__Bacteria;p__Candidatus Nomurabacteria
+k__Bacteria;p__Candidatus Cloacimonetes	0.000010	0.000010	0.000010	k__Bacteria;p__Candidatus Cloacimonetes
+k__Bacteria;p__Candidatus Peregrinibacteria	0.000007	0.000008	0.000009	k__Bacteria;p__Candidatus Peregrinibacteria
+k__Bacteria;p__Candidatus Tectomicrobia	0.000002	0.000003	0.000006	k__Bacteria;p__Candidatus Tectomicrobia
+k__Bacteria;p__Candidatus Daviesbacteria	0.000002	0.000004	0.000003	k__Bacteria;p__Candidatus Daviesbacteria
+k__Bacteria;p__Candidatus Parcubacteria	0.000006	0.000006	0.000005	k__Bacteria;p__Candidatus Parcubacteria
+k__Bacteria;p__Gemmatimonadetes	0.000005	0.000005	0.000007	k__Bacteria;p__Gemmatimonadetes
+k__Bacteria;p__Candidatus Levybacteria	0.000003	0.000002	0.000002	k__Bacteria;p__Candidatus Levybacteria
+k__Bacteria;p__Candidatus Taylorbacteria	0.000002	0.000002	0.000001	k__Bacteria;p__Candidatus Taylorbacteria
+k__Bacteria;p__Candidatus Handelsmanbacteria	0.000007	0.000009	0.000009	k__Bacteria;p__Candidatus Handelsmanbacteria
+k__Bacteria;p__Dictyoglomi	0.000007	0.000008	0.000007	k__Bacteria;p__Dictyoglomi
+k__Bacteria;p__Candidatus Acetothermia	0.000002	0.000005	0.000003	k__Bacteria;p__Candidatus Acetothermia
+k__Bacteria;p__Caldiserica	0.000004	0.000001	0.000001	k__Bacteria;p__Caldiserica
+k__Archaea;p__Candidatus Thorarchaeota	0.000002	0.000001	0.000001	k__Archaea;p__Candidatus Thorarchaeota
+k__Bacteria;p__Candidatus Firestonebacteria	0.000005	0.000006	0.000005	k__Bacteria;p__Candidatus Firestonebacteria
+k__Archaea;p__Crenarchaeota	0.000006	0.000008	0.000006	k__Archaea;p__Crenarchaeota
+k__Bacteria;p__Nitrospinae	0.000003	0.000005	0.000005	k__Bacteria;p__Nitrospinae
+k__Bacteria;p__Candidatus Schekmanbacteria	0.000003	0.000004	0.000004	k__Bacteria;p__Candidatus Schekmanbacteria
+k__Bacteria;p__Candidatus Microgenomates	0.000006	0.000004	0.000003	k__Bacteria;p__Candidatus Microgenomates
+k__Bacteria;p__Candidatus Shapirobacteria	0.000003	0.000002	0.000003	k__Bacteria;p__Candidatus Shapirobacteria
+k__Bacteria;p__Candidatus Collierbacteria	0.000002	0.000002	0.000002	k__Bacteria;p__Candidatus Collierbacteria
+k__Bacteria;p__candidate division Zixibacteria	0.000004	0.000006	0.000006	k__Bacteria;p__candidate division Zixibacteria
+k__Bacteria;p__Thermodesulfobacteria	0.000004	0.000003	0.000003	k__Bacteria;p__Thermodesulfobacteria
+k__Archaea;p__Candidatus Woesearchaeota	0.000004	0.000004	0.000004	k__Archaea;p__Candidatus Woesearchaeota
+k__Bacteria;p__Calditrichaeota	0.000004	0.000005	0.000004	k__Bacteria;p__Calditrichaeota
+k__Archaea;p__Thaumarchaeota	0.000004	0.000003	0.000003	k__Archaea;p__Thaumarchaeota
+k__Bacteria;p__Candidatus Glassbacteria	0.000002	0.000004	0.000003	k__Bacteria;p__Candidatus Glassbacteria
+k__Bacteria;p__Candidatus Giovannonibacteria	0.000003	0.000001	0.000002	k__Bacteria;p__Candidatus Giovannonibacteria
+k__Bacteria;p__Candidatus Wolfebacteria	0.000003	0.000003	0.000002	k__Bacteria;p__Candidatus Wolfebacteria
+k__Eukaryota;p__Microsporidia	0.000001	0.000001	0.000001	k__Eukaryota;p__Microsporidia
+k__Bacteria;p__Candidatus Yanofskybacteria	0.000003	0.000001	0.000002	k__Bacteria;p__Candidatus Yanofskybacteria
+k__Bacteria;p__Candidatus Nealsonbacteria	0.000001	0.000001	0.000002	k__Bacteria;p__Candidatus Nealsonbacteria
+k__Bacteria;p__Candidatus Raymondbacteria	0.000002	0.000003	0.000003	k__Bacteria;p__Candidatus Raymondbacteria
+k__Bacteria;p__Candidatus Delongbacteria	0.000002	0.000001	0.000002	k__Bacteria;p__Candidatus Delongbacteria
+k__Bacteria;p__Candidatus Lloydbacteria	0.000002	0.000003	0.000003	k__Bacteria;p__Candidatus Lloydbacteria
+k__Bacteria;p__candidate division WWE3	0.000002	0.000002	0.000002	k__Bacteria;p__candidate division WWE3
+k__Bacteria;p__Candidatus Woykebacteria	0.000002	0.000003	0.000003	k__Bacteria;p__Candidatus Woykebacteria
+k__Bacteria;p__Candidatus Berkelbacteria	0.000001	0.000002	0.000002	k__Bacteria;p__Candidatus Berkelbacteria
+k__Bacteria;p__Candidatus Kuenenbacteria	0.000001	0.000001	0.000002	k__Bacteria;p__Candidatus Kuenenbacteria
+k__Archaea;p__Candidatus Heimdallarchaeota	0.000001	0.000002	0.000001	k__Archaea;p__Candidatus Heimdallarchaeota
+k__Bacteria;p__Candidatus Liptonbacteria	0.000000	0.000001	0.000001	k__Bacteria;p__Candidatus Liptonbacteria
+k__Bacteria;p__Candidatus Gottesmanbacteria	0.000002	0.000002	0.000003	k__Bacteria;p__Candidatus Gottesmanbacteria
+k__Bacteria;p__Candidatus Jorgensenbacteria	0.000001	0.000000	0.000000	k__Bacteria;p__Candidatus Jorgensenbacteria
+k__Archaea;p__Candidatus Micrarchaeota	0.000001	0.000001	0.000001	k__Archaea;p__Candidatus Micrarchaeota
+k__Eukaryota;p__Blastocladiomycota	0.000001	0.000000	0.000000	k__Eukaryota;p__Blastocladiomycota
+k__Bacteria;p__candidate division CPR2	0.000001	0.000001	0.000001	k__Bacteria;p__candidate division CPR2
+k__Bacteria;p__Candidatus Fermentibacteria	0.000002	0.000002	0.000002	k__Bacteria;p__Candidatus Fermentibacteria
+k__Bacteria;p__Candidatus Pacebacteria	0.000001	0.000001	0.000002	k__Bacteria;p__Candidatus Pacebacteria
+k__Bacteria;p__Candidatus Zambryskibacteria	0.000001	0.000002	0.000002	k__Bacteria;p__Candidatus Zambryskibacteria
+k__Bacteria;p__candidate division NC10	0.000002	0.000002	0.000003	k__Bacteria;p__candidate division NC10
+k__Bacteria;p__Candidatus Edwardsbacteria	0.000001	0.000002	0.000002	k__Bacteria;p__Candidatus Edwardsbacteria
+k__Bacteria;p__Candidatus Wallbacteria	0.000000	0.000001	0.000001	k__Bacteria;p__Candidatus Wallbacteria
+k__Bacteria;p__Rhodothermaeota	0.000002	0.000002	0.000002	k__Bacteria;p__Rhodothermaeota
+k__Eukaryota;p__Zoopagomycota	0.000001	0.000000	0.000000	k__Eukaryota;p__Zoopagomycota
+k__Bacteria;p__Candidatus Riflebacteria	0.000001	0.000001	0.000001	k__Bacteria;p__Candidatus Riflebacteria
+k__Bacteria;p__Candidatus Fischerbacteria	0.000001	0.000000	0.000001	k__Bacteria;p__Candidatus Fischerbacteria
+k__Archaea;p__Candidatus Lokiarchaeota	0.000001	0.000001	0.000001	k__Archaea;p__Candidatus Lokiarchaeota
+k__Bacteria;p__Candidatus Amesbacteria	0.000001	0.000001	0.000001	k__Bacteria;p__Candidatus Amesbacteria
+k__Bacteria;p__Candidatus Komeilibacteria	0.000001	0.000001	0.000001	k__Bacteria;p__Candidatus Komeilibacteria
+k__Bacteria;p__candidate division WOR-3	0.000001	0.000002	0.000002	k__Bacteria;p__candidate division WOR-3
+k__Bacteria;p__Candidatus Dadabacteria	0.000001	0.000001	0.000001	k__Bacteria;p__Candidatus Dadabacteria
+k__Bacteria;p__Candidatus Portnoybacteria	0.000000	0.000001	0.000001	k__Bacteria;p__Candidatus Portnoybacteria
+k__Archaea;p__Candidatus Nanohaloarchaeota	0.000000	0.000001	0.000000	k__Archaea;p__Candidatus Nanohaloarchaeota
+k__Bacteria;p__Candidatus Kerfeldbacteria	0.000000	0.000001	0.000001	k__Bacteria;p__Candidatus Kerfeldbacteria
+k__Bacteria;p__Candidatus Wildermuthbacteria	0.000001	0.000000	0.000001	k__Bacteria;p__Candidatus Wildermuthbacteria
+k__Bacteria;p__Candidatus Campbellbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Campbellbacteria
+k__Bacteria;p__Candidatus Harrisonbacteria	0.000001	0.000001	0.000001	k__Bacteria;p__Candidatus Harrisonbacteria
+k__Bacteria;p__Candidatus Lindowbacteria	0.000001	0.000001	0.000001	k__Bacteria;p__Candidatus Lindowbacteria
+k__Bacteria;p__Candidatus Spechtbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Spechtbacteria
+k__Bacteria;p__Candidatus Doudnabacteria	0.000001	0.000001	0.000001	k__Bacteria;p__Candidatus Doudnabacteria
+k__Archaea;p__Candidatus Aenigmarchaeota	0.000000	0.000000	0.000000	k__Archaea;p__Candidatus Aenigmarchaeota
+k__Bacteria;p__candidate division CPR3	0.000000	0.000000	0.000000	k__Bacteria;p__candidate division CPR3
+k__Bacteria;p__Candidatus Abawacabacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Abawacabacteria
+k__Bacteria;p__candidate division KD3-62	0.000001	0.000001	0.000001	k__Bacteria;p__candidate division KD3-62
+k__Bacteria;p__Candidatus Azambacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Azambacteria
+k__Bacteria;p__Chrysiogenetes	0.000001	0.000001	0.000001	k__Bacteria;p__Chrysiogenetes
+k__Bacteria;p__Candidatus Staskawiczbacteria	0.000000	0.000001	0.000000	k__Bacteria;p__Candidatus Staskawiczbacteria
+k__Bacteria;p__Candidatus Gracilibacteria	0.000000	0.000001	0.000000	k__Bacteria;p__Candidatus Gracilibacteria
+k__Bacteria;p__Candidatus Ryanbacteria	0.000000	0.000001	0.000000	k__Bacteria;p__Candidatus Ryanbacteria
+k__Bacteria;p__Candidatus Curtissbacteria	0.000001	0.000001	0.000001	k__Bacteria;p__Candidatus Curtissbacteria
+k__Archaea;p__Candidatus Korarchaeota	0.000000	0.000000	0.000000	k__Archaea;p__Candidatus Korarchaeota
+k__Bacteria;p__Candidatus Aerophobetes	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Aerophobetes
+k__Bacteria;p__Candidatus Eisenbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Eisenbacteria
+k__Bacteria;p__Candidatus Andersenbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Andersenbacteria
+k__Bacteria;p__Candidatus Vogelbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Vogelbacteria
+k__Bacteria;p__Candidatus Sungbacteria	0.000000	0.000001	0.000000	k__Bacteria;p__Candidatus Sungbacteria
+k__Bacteria;p__Candidatus Wirthbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Wirthbacteria
+k__Bacteria;p__Candidatus Niyogibacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Niyogibacteria
+k__Bacteria;p__Candidatus Yonathbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Yonathbacteria
+k__Bacteria;p__Candidatus Coatesbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Coatesbacteria
+k__Archaea;p__Candidatus Diapherotrites	0.000000	0.000000	0.000000	k__Archaea;p__Candidatus Diapherotrites
+k__Eukaryota;p__Cryptomycota	0.000000	0.000000	0.000000	k__Eukaryota;p__Cryptomycota
+k__Bacteria;p__Candidatus Colwellbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Colwellbacteria
+k__Bacteria;p__Candidatus Adlerbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Adlerbacteria
+k__Archaea;p__Nanoarchaeota	0.000000	0.000000	0.000000	k__Archaea;p__Nanoarchaeota
+k__Bacteria;p__Candidatus Fraserbacteria	0.000000	0.000000	0.000000	k__Bacteria;p__Candidatus Fraserbacteria
+k__Archaea;p__Candidatus Odinarchaeota	0.000000	0.000000	0.000000	k__Archaea;p__Candidatus Odinarchaeota
+Others	0.175978	0.173193	0.178401	Others
